@@ -1,0 +1,49 @@
+/*
+Theme Name:   dfn
+Description:  Scrivi qui una breve descrizione del tuo child theme
+Author:       mavida
+Author URL:   Scrivi qui il l'URL  del blog / sito web dell'autore
+Template:     storefront
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  DFN
+*/
+/* Scrivi qui il tuo foglio di stile personalizzato */
+#post-area article.masonry-blog-item {
+  width: 25% !important; }
+  @media screen and (max-width: 989px) and (min-width: 691px) {
+    #post-area article.masonry-blog-item {
+      width: 50% !important; } }
+  @media screen and (max-width: 690px) {
+    #post-area article.masonry-blog-item {
+      width: 100% !important; } }
+#post-area article .post-content {
+  padding-left: 0 !important; }
+#post-area .article-content-wrap {
+  padding: 20px !important; }
+  #post-area .article-content-wrap .post-meta {
+    margin: -4px 0 3px !important;
+    padding-bottom: 0 !important;
+    line-height: 26px;
+    display: block !important; }
+    #post-area .article-content-wrap .post-meta .date {
+      float: none;
+      font-family: Playfair Display;
+      letter-spacing: 0; }
+  #post-area .article-content-wrap h2.title {
+    font-size: 14px !important;
+    line-height: 20px !important;
+    font-family: Montserrat;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    text-transform: uppercase !important; }
+    @media screen and (max-width: 690px) {
+      #post-area .article-content-wrap h2.title {
+        font-size: 16px !important; } }
+  #post-area .article-content-wrap a {
+    display: block;
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */

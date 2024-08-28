@@ -1,0 +1,868 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Aug 2024 13:13:27 at https://www.dfnsrl.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.dfnsrl.com/ -O1 "C:\Users\Administrator\Desktop\Ezamble" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:49	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.dfnsrl.com/)
+13:15:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/samuele-mazza-outdoor-collection/
+13:15:01	Warning: 	File has moved from https://www.dfnsrl.com/samuele-mazza-outdoor-collection/ to https://www.dfnsrl.com/portfolio/samuele-mazza-outdoor-collection/
+13:15:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/dolcefarniente/
+13:15:01	Warning: 	File has moved from https://www.dfnsrl.com/dolcefarniente/ to https://www.dfnsrl.com/portfolio/dolcefarniente/
+13:15:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/outdoor-kitchens/
+13:15:01	Warning: 	File has moved from https://www.dfnsrl.com/outdoor-kitchens/ to https://www.dfnsrl.com/portfolio/outdoor-kitchens/
+13:15:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/casa-dei-limoni/
+13:15:01	Warning: 	File has moved from https://www.dfnsrl.com/casa-dei-limoni/ to https://www.dfnsrl.com/portfolio/casa-dei-limoni/
+13:15:04	Warning: 	Moved Permanently for https://www.dfnsrl.com/siderale/
+13:15:04	Warning: 	File has moved from https://www.dfnsrl.com/siderale/ to https://www.dfnsrl.com/portfolio/siderale/
+13:15:04	Warning: 	Moved Permanently for https://www.dfnsrl.com/orangerie/
+13:15:04	Warning: 	File has moved from https://www.dfnsrl.com/orangerie/ to https://www.dfnsrl.com/portfolio/orangerie/
+13:15:16	Warning: 	Moved Permanently for https://www.dfnsrl.com/lights/
+13:15:16	Warning: 	File has moved from https://www.dfnsrl.com/lights/ to https://www.dfnsrl.com/portfolio/lights/
+13:16:23	Warning: 	Moved Permanently for https://www.dfnsrl.com/bioclimatic-pergolas/
+13:16:23	Warning: 	File has moved from https://www.dfnsrl.com/bioclimatic-pergolas/ to https://www.dfnsrl.com/portfolio/bioclimatic-pergolas/
+13:16:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/winter-gardens/
+13:16:59	Warning: 	File has moved from https://www.dfnsrl.com/winter-gardens/ to https://www.dfnsrl.com/portfolio/winter-gardens/
+13:17:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/canopo-floating/
+13:17:22	Warning: 	File has moved from https://www.dfnsrl.com/canopo-floating/ to https://www.dfnsrl.com/portfolio/canopo-floating/
+13:17:27	Warning: 	Moved Permanently for https://www.dfnsrl.com/bernini/
+13:17:27	Warning: 	File has moved from https://www.dfnsrl.com/bernini/ to https://www.dfnsrl.com/portfolio/bernini/
+13:17:27	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dfnsrl.com%2Fit%2F (from https://www.dfnsrl.com/it/)
+13:17:27	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dfnsrl.com%2Fit%2F&format=xml (from https://www.dfnsrl.com/it/)
+13:17:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/dolcefarniente/
+13:17:36	Warning: 	File has moved from https://www.dfnsrl.com/it/dolcefarniente/ to https://www.dfnsrl.com/it/portfolio/dolcefarniente/
+13:17:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucine-per-esterno/
+13:17:36	Warning: 	File has moved from https://www.dfnsrl.com/it/cucine-per-esterno/ to https://www.dfnsrl.com/it/portfolio/cucine-per-esterno/
+13:17:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/casa-dei-limoni/
+13:17:36	Warning: 	File has moved from https://www.dfnsrl.com/it/casa-dei-limoni/ to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/
+13:17:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/samuele-mazza-outdoor-collection/
+13:17:36	Warning: 	File has moved from https://www.dfnsrl.com/it/samuele-mazza-outdoor-collection/ to https://www.dfnsrl.com/it/portfolio/samuele-mazza-outdoor-collection/
+13:17:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/siderale/
+13:17:36	Warning: 	File has moved from https://www.dfnsrl.com/it/siderale/ to https://www.dfnsrl.com/it/portfolio/siderale/
+13:17:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/orangerie/
+13:17:36	Warning: 	File has moved from https://www.dfnsrl.com/it/orangerie/ to https://www.dfnsrl.com/it/portfolio/orangerie/
+13:17:40	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/luci/
+13:17:40	Warning: 	File has moved from https://www.dfnsrl.com/it/luci/ to https://www.dfnsrl.com/it/portfolio/luci/
+13:17:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/outdoor-collection/
+13:17:52	Warning: 	File has moved from https://www.dfnsrl.com/it/outdoor-collection/ to https://www.dfnsrl.com/it/portfolio/mirabile-collection/
+13:18:28	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/giardino-d-inverno/
+13:18:28	Warning: 	File has moved from https://www.dfnsrl.com/it/giardino-d-inverno/ to https://www.dfnsrl.com/it/portfolio/giardino-d-inverno/
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dfnsrl.com%2Fru%2F (from https://www.dfnsrl.com/ru/)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dfnsrl.com%2Fru%2F&format=xml (from https://www.dfnsrl.com/ru/)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888 (from https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.2)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888 (from https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.2)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/css/openhand.cur (from https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.2)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur (from https://www.dfnsrl.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.2)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.eot?v=4.2 (from https://www.dfnsrl.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.6.4)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.eot? (from https://www.dfnsrl.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.6.4)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.svg (from https://www.dfnsrl.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.6.4)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/icomoon.eot (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/icomoon.eot? (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/icomoon.svg (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/linecons.eot (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/linecons.eot? (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/linecons.svg (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/steadysets.eot (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/steadysets.eot? (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/themes/salient/css/fonts/steadysets.svg (from https://www.dfnsrl.com/wp-content/themes/salient/css/style.css?ver=12.1.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62 (from https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.2.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62 (from https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.2.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac (from https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.2.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot? (from https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.2.0)
+13:18:51	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac (from https://www.dfnsrl.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.2.0)
+13:18:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7950
+13:18:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=7950 to https://www.dfnsrl.com/who-we-are/
+13:18:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/Progettista.png (from https://www.dfnsrl.com/who-we-are/)
+13:18:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/Download.png (from https://www.dfnsrl.com/who-we-are/)
+13:18:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7959
+13:18:52	Warning: 	File has moved from https://www.dfnsrl.com/?p=7959 to https://www.dfnsrl.com/what-we-do/
+13:19:00	Warning: 	Moved Permanently for https://www.dfnsrl.com/casa-limoni/
+13:19:00	Warning: 	File has moved from https://www.dfnsrl.com/casa-limoni/ to https://www.dfnsrl.com/?attachment_id=10494
+13:19:00	Warning: 	Moved Permanently for https://www.dfnsrl.com/casa-dei-liimoni/
+13:19:00	Warning: 	File has moved from https://www.dfnsrl.com/casa-dei-liimoni/ to https://www.dfnsrl.com/casa-dei-limoni/
+13:19:15	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=15132
+13:19:15	Warning: 	File has moved from https://www.dfnsrl.com/?p=15132 to https://www.dfnsrl.com/trame-di-artista-catalogue/
+13:19:33	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9332
+13:19:33	Warning: 	File has moved from https://www.dfnsrl.com/?p=9332 to https://www.dfnsrl.com/portfolio/demetra/
+13:19:40	Warning: 	Link https://www.dfnsrl.com/portfolio/sole-gazebo/ not scanned (follow robots meta tag)
+13:19:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Rivoluzione-arredo.png (from https://www.dfnsrl.com/portfolio/demetra/)
+13:19:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Finiture-inusuali.png (from https://www.dfnsrl.com/portfolio/demetra/)
+13:20:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8267
+13:20:07	Warning: 	File has moved from https://www.dfnsrl.com/?p=8267 to https://www.dfnsrl.com/samuele-mazza-catalogues/
+13:20:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8536
+13:20:07	Warning: 	File has moved from https://www.dfnsrl.com/?p=8536 to https://www.dfnsrl.com/samuele-mazza-materials/
+13:20:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=13183
+13:20:22	Warning: 	File has moved from https://www.dfnsrl.com/?p=13183 to https://www.dfnsrl.com/care-maintenance/
+13:20:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11161
+13:20:22	Warning: 	File has moved from https://www.dfnsrl.com/?p=11161 to https://www.dfnsrl.com/portfolio/sublime-collection/
+13:20:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/sublime-collection/
+13:20:22	Warning: 	File has moved from https://www.dfnsrl.com/sublime-collection/ to https://www.dfnsrl.com/portfolio/sublime-collection/
+13:20:27	Warning: 	Moved Permanently for https://www.dfnsrl.com/portfolio/xlux/
+13:20:27	Warning: 	File has moved from https://www.dfnsrl.com/portfolio/xlux/ to https://www.dfnsrl.com/portfolio/casa-dei-limoni/
+13:20:27	Warning: 	Moved Permanently for https://www.dfnsrl.com/twilight/
+13:20:27	Warning: 	File has moved from https://www.dfnsrl.com/twilight/ to https://www.dfnsrl.com/portfolio/twilight/
+13:20:44	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8283
+13:20:44	Warning: 	File has moved from https://www.dfnsrl.com/?p=8283 to https://www.dfnsrl.com/portfolio/mirabile-collection/
+13:20:44	Warning: 	Moved Permanently for https://www.dfnsrl.com/mirabile-collection/
+13:20:44	Warning: 	File has moved from https://www.dfnsrl.com/mirabile-collection/ to https://www.dfnsrl.com/portfolio/mirabile-collection/
+13:20:47	Warning: 	Moved Permanently for https://www.dfnsrl.com/portfolio/natural-rattan/
+13:20:47	Warning: 	File has moved from https://www.dfnsrl.com/portfolio/natural-rattan/ to https://www.dfnsrl.com/portfolio/mirabile-collection/
+13:21:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/outdoor-collection-materials/
+13:21:17	Warning: 	File has moved from https://www.dfnsrl.com/outdoor-collection-materials/ to https://www.dfnsrl.com/mirabile-collection-materials/
+13:21:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-design-elegante-.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:21:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-contract-e-residenziale-.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:21:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-agenti-atmosferici.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:21:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8373
+13:21:17	Warning: 	File has moved from https://www.dfnsrl.com/?p=8373 to https://www.dfnsrl.com/dolcefarniente-catalouges/
+13:21:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8558
+13:21:17	Warning: 	File has moved from https://www.dfnsrl.com/?p=8558 to https://www.dfnsrl.com/dolcefarniente-materials/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12094
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/?p=12094 to https://www.dfnsrl.com/portfolio/bernini/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12102
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/?p=12102 to https://www.dfnsrl.com/portfolio/brunelleschi/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/brunelleschi/
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/brunelleschi/ to https://www.dfnsrl.com/portfolio/brunelleschi/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12110
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/?p=12110 to https://www.dfnsrl.com/portfolio/brunelleschi-essential/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/brunelleschi-essential/
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/brunelleschi-essential/ to https://www.dfnsrl.com/portfolio/brunelleschi-essential/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12082
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/?p=12082 to https://www.dfnsrl.com/portfolio/bramante/
+13:21:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/bramante/
+13:21:18	Warning: 	File has moved from https://www.dfnsrl.com/bramante/ to https://www.dfnsrl.com/portfolio/bramante/
+13:21:19	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12090
+13:21:19	Warning: 	File has moved from https://www.dfnsrl.com/?p=12090 to https://www.dfnsrl.com/portfolio/bramante-essential/
+13:21:19	Warning: 	Moved Permanently for https://www.dfnsrl.com/bramante-essential/
+13:21:19	Warning: 	File has moved from https://www.dfnsrl.com/bramante-essential/ to https://www.dfnsrl.com/portfolio/bramante-essential/
+13:21:19	Warning: 	Moved Permanently for https://www.dfnsrl.com/conservatories-personalization/
+13:21:19	Warning: 	File has moved from https://www.dfnsrl.com/conservatories-personalization/ to https://www.dfnsrl.com/conservatories-customization/
+13:21:20	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12127
+13:21:20	Warning: 	File has moved from https://www.dfnsrl.com/?p=12127 to https://www.dfnsrl.com/portfolio/skylight/
+13:21:20	Warning: 	Moved Permanently for https://www.dfnsrl.com/skylight/
+13:21:20	Warning: 	File has moved from https://www.dfnsrl.com/skylight/ to https://www.dfnsrl.com/portfolio/skylight/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8572
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/?p=8572 to https://www.dfnsrl.com/casa-dei-limoni-catalogues/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8344
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/?p=8344 to https://www.dfnsrl.com/personalization/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8347
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/?p=8347 to https://www.dfnsrl.com/furniture-personalization/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8360
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/?p=8360 to https://www.dfnsrl.com/kitchens-personalization/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/download/
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/download/ to https://www.dfnsrl.com/portfolio/siderale/download/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=13370
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/?p=13370 to https://www.dfnsrl.com/conservatories-customization/
+13:21:21	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8379
+13:21:21	Warning: 	File has moved from https://www.dfnsrl.com/?p=8379 to https://www.dfnsrl.com/contract/
+13:21:23	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9335
+13:21:23	Warning: 	File has moved from https://www.dfnsrl.com/?p=9335 to https://www.dfnsrl.com/projects/
+13:21:23	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-rivoluzione-arredo-outdoor.png (from https://www.dfnsrl.com/projects/)
+13:21:23	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Total-look.png (from https://www.dfnsrl.com/projects/)
+13:21:23	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Il-lusso-di-finiture-uniche.png (from https://www.dfnsrl.com/projects/)
+13:21:23	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8386
+13:21:23	Warning: 	File has moved from https://www.dfnsrl.com/?p=8386 to https://www.dfnsrl.com/luxury-contract/
+13:21:31	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8402
+13:21:31	Warning: 	File has moved from https://www.dfnsrl.com/?p=8402 to https://www.dfnsrl.com/catalogues-download/
+13:21:31	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8409
+13:21:31	Warning: 	File has moved from https://www.dfnsrl.com/?p=8409 to https://www.dfnsrl.com/contacts/
+13:21:31	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=16417
+13:21:31	Warning: 	File has moved from https://www.dfnsrl.com/?p=16417 to https://www.dfnsrl.com/salone-del-mobile-2024/
+13:21:31	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=16733
+13:21:31	Warning: 	File has moved from https://www.dfnsrl.com/?p=16733 to https://www.dfnsrl.com/mys-2024/
+13:21:31	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8271
+13:21:31	Warning: 	File has moved from https://www.dfnsrl.com/?p=8271 to https://www.dfnsrl.com/portfolio/dolcefarniente/
+13:21:31	Warning: 	Moved Permanently for https://www.dfnsrl.com/outdoor-collection/
+13:21:31	Warning: 	File has moved from https://www.dfnsrl.com/outdoor-collection/ to https://www.dfnsrl.com/it/portfolio/mirabile-collection/
+13:21:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-30-anni.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:21:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-intreccio.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:21:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-scenografici-.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:21:32	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=13807
+13:21:32	Warning: 	File has moved from https://www.dfnsrl.com/?p=13807 to https://www.dfnsrl.com/miami-collection/
+13:21:32	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6611
+13:21:32	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6611 to https://www.dfnsrl.com/it/chi-siamo/
+13:21:32	Warning: 	Link https://www.dfnsrl.com/it/la-casa-dei-limoni-area-riservata/ not scanned (follow robots meta tag)
+13:21:32	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6633
+13:21:32	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6633 to https://www.dfnsrl.com/it/cosa-facciamo/
+13:21:32	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/casa-limoni/
+13:21:32	Warning: 	File has moved from https://www.dfnsrl.com/it/casa-limoni/ to https://www.dfnsrl.com/it/casa-dei-limoni/
+13:21:32	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=5948
+13:21:32	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=5948 to https://www.dfnsrl.com/it/portfolio/samuele-mazza-outdoor-collection/
+13:21:44	Warning: 	Moved Permanently for https://www.dfnsrl.com/la-garanzia-di-durare-nel-tempo/
+13:21:44	Warning: 	File has moved from https://www.dfnsrl.com/la-garanzia-di-durare-nel-tempo/ to https://www.dfnsrl.com/
+13:21:44	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=15145
+13:21:44	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=15145 to https://www.dfnsrl.com/it/trame-di-artista-catalogue/
+13:21:46	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=9559
+13:21:46	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=9559 to https://www.dfnsrl.com/it/portfolio/demetra/
+13:21:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6894
+13:21:59	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6894 to https://www.dfnsrl.com/it/cataloghi-samuele-mazza/
+13:21:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=8439
+13:21:59	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=8439 to https://www.dfnsrl.com/it/materiali-samuele-mazza/
+13:22:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=13257
+13:22:02	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=13257 to https://www.dfnsrl.com/it/cura-manutenzione/
+13:22:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11140
+13:22:02	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11140 to https://www.dfnsrl.com/it/portfolio/sublime-collection/
+13:22:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/sublime-collection/
+13:22:02	Warning: 	File has moved from https://www.dfnsrl.com/it/sublime-collection/ to https://www.dfnsrl.com/it/portfolio/sublime-collection/
+13:22:04	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/xlux/
+13:22:04	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/xlux/ to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/
+13:22:10	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6926
+13:22:10	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6926 to https://www.dfnsrl.com/it/cataloghi-dolcefarniente/
+13:22:10	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=8554
+13:22:10	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=8554 to https://www.dfnsrl.com/it/materiali-dolcefarniente/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12167
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12167 to https://www.dfnsrl.com/it/portfolio/bernini/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/bernini/
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/bernini/ to https://www.dfnsrl.com/it/portfolio/bernini/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12170
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12170 to https://www.dfnsrl.com/it/portfolio/brunelleschi/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/brunelleschi/
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/brunelleschi/ to https://www.dfnsrl.com/it/portfolio/brunelleschi/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12161
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12161 to https://www.dfnsrl.com/it/portfolio/brunelleschi-essential/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/brunelleschi-essential/
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/brunelleschi-essential/ to https://www.dfnsrl.com/it/portfolio/brunelleschi-essential/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12163
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12163 to https://www.dfnsrl.com/it/portfolio/bramante/
+13:22:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/bramante/
+13:22:11	Warning: 	File has moved from https://www.dfnsrl.com/it/bramante/ to https://www.dfnsrl.com/it/portfolio/bramante/
+13:22:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/personalizzazioni-conservatories/
+13:22:12	Warning: 	File has moved from https://www.dfnsrl.com/it/personalizzazioni-conservatories/ to https://www.dfnsrl.com/it/conservatories-personalizzate/
+13:22:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12192
+13:22:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12192 to https://www.dfnsrl.com/it/portfolio/bramante-essential/
+13:22:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/bramante-essential/
+13:22:12	Warning: 	File has moved from https://www.dfnsrl.com/it/bramante-essential/ to https://www.dfnsrl.com/it/portfolio/bramante-essential/
+13:22:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7913
+13:22:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7913 to https://www.dfnsrl.com/it/portfolio/pergola-bioclimatica/
+13:22:16	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12178
+13:22:16	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12178 to https://www.dfnsrl.com/it/portfolio/skylight/
+13:22:16	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/skylight/
+13:22:16	Warning: 	File has moved from https://www.dfnsrl.com/it/skylight/ to https://www.dfnsrl.com/it/portfolio/skylight/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=8563
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=8563 to https://www.dfnsrl.com/it/cataloghi-casa-dei-limoni/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/personalization/
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/personalization/ to https://www.dfnsrl.com/it/personalizzazioni/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6672
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6672 to https://www.dfnsrl.com/it/personalizzazioni/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7441
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7441 to https://www.dfnsrl.com/it/personalizzazioni-arredamento/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7715
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7715 to https://www.dfnsrl.com/it/personalizzazioni-cucine/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=13280
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=13280 to https://www.dfnsrl.com/it/conservatories-personalizzate/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6157
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6157 to https://www.dfnsrl.com/it/contract/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=9564
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=9564 to https://www.dfnsrl.com/it/progetti/
+13:22:17	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6565
+13:22:17	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6565 to https://www.dfnsrl.com/it/luxury-contract/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=8154
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=8154 to https://www.dfnsrl.com/it/download/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6931
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6931 to https://www.dfnsrl.com/it/contatti/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=16416
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=16416 to https://www.dfnsrl.com/it/salone-del-mobile-2024/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=16823
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=16823 to https://www.dfnsrl.com/it/mys-2024/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6124
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6124 to https://www.dfnsrl.com/it/portfolio/dolcefarniente/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/mirabile-collection/
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/mirabile-collection/ to https://www.dfnsrl.com/it/portfolio/mirabile-collection/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12283
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12283 to https://www.dfnsrl.com/it/portfolio/canopo-floating/
+13:22:22	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/canopo-floating/
+13:22:22	Warning: 	File has moved from https://www.dfnsrl.com/it/canopo-floating/ to https://www.dfnsrl.com/it/portfolio/canopo-floating/
+13:22:46	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=13839
+13:22:46	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=13839 to https://www.dfnsrl.com/it/collezione-miami/
+13:22:46	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6815
+13:22:46	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6815 to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/
+13:22:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/10/La-casa-dei-limoni-300x105.png (from https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/)
+13:22:57	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8315
+13:22:57	Warning: 	File has moved from https://www.dfnsrl.com/?p=8315 to https://www.dfnsrl.com/portfolio/casa-dei-limoni/
+13:22:59	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/Progettista.png (from https://www.dfnsrl.com/who-we-are/)
+13:22:59	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/Download.png (from https://www.dfnsrl.com/who-we-are/)
+13:22:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9990
+13:22:59	Warning: 	File has moved from https://www.dfnsrl.com/?p=9990 to https://www.dfnsrl.com/luxury-outdoor-furniture/
+13:22:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/?attachment_id=10494
+13:22:59	Warning: 	File has moved from https://www.dfnsrl.com/?attachment_id=10494 to https://www.dfnsrl.com/
+13:22:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7971
+13:22:59	Warning: 	File has moved from https://www.dfnsrl.com/?p=7971 to https://www.dfnsrl.com/portfolio/samuele-mazza-outdoor-collection/
+13:22:59	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8033
+13:22:59	Warning: 	File has moved from https://www.dfnsrl.com/?p=8033 to https://www.dfnsrl.com/portfolio/outdoor-kitchens/
+13:23:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/07/DFN-luruty-outdoor-furniture-lussuose-cucine.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:23:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-materiali-iconici.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:23:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/07/DFN-luruty-outdoor-furniture-total-look.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:23:40	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7975
+13:23:40	Warning: 	File has moved from https://www.dfnsrl.com/?p=7975 to https://www.dfnsrl.com/portfolio/siderale/
+13:24:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8008
+13:24:11	Warning: 	File has moved from https://www.dfnsrl.com/?p=8008 to https://www.dfnsrl.com/portfolio/orangerie/
+13:24:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-materiali-naturali.png (from https://www.dfnsrl.com/portfolio/orangerie/)
+13:24:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-lussuosi-arredamenti.png (from https://www.dfnsrl.com/portfolio/orangerie/)
+13:24:26	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9518
+13:24:26	Warning: 	File has moved from https://www.dfnsrl.com/?p=9518 to https://www.dfnsrl.com/portfolio/mara-dal-cin2/
+13:24:26	Warning: 	Moved Permanently for https://www.dfnsrl.com/mara-dal-cin2/
+13:24:26	Warning: 	File has moved from https://www.dfnsrl.com/mara-dal-cin2/ to https://www.dfnsrl.com/portfolio/mara-dal-cin2/
+13:24:26	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9892
+13:24:26	Warning: 	File has moved from https://www.dfnsrl.com/?p=9892 to https://www.dfnsrl.com/portfolio/aralia/
+13:24:26	Warning: 	Moved Permanently for https://www.dfnsrl.com/aralia/
+13:24:26	Warning: 	File has moved from https://www.dfnsrl.com/aralia/ to https://www.dfnsrl.com/portfolio/aralia/
+13:24:26	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11253
+13:24:26	Warning: 	File has moved from https://www.dfnsrl.com/?p=11253 to https://www.dfnsrl.com/portfolio/kenzia/
+13:24:28	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9894
+13:24:28	Warning: 	File has moved from https://www.dfnsrl.com/?p=9894 to https://www.dfnsrl.com/portfolio/yucca-collection/
+13:24:28	Warning: 	Moved Permanently for https://www.dfnsrl.com/yucca-collection/
+13:24:28	Warning: 	File has moved from https://www.dfnsrl.com/yucca-collection/ to https://www.dfnsrl.com/portfolio/yucca-collection/
+13:24:28	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12648
+13:24:28	Warning: 	File has moved from https://www.dfnsrl.com/?p=12648 to https://www.dfnsrl.com/portfolio/laurus/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8003
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=8003 to https://www.dfnsrl.com/siderale-materials/
+13:24:29	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Rivoluzione-arredo.png (from https://www.dfnsrl.com/portfolio/demetra/)
+13:24:29	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Finiture-inusuali.png (from https://www.dfnsrl.com/portfolio/demetra/)
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8262
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=8262 to https://www.dfnsrl.com/portfolio/lights/
+13:24:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-elementi-luminosi-decorativi.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:24:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-excellence.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:24:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-proposte-coordinate.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8029
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=8029 to https://www.dfnsrl.com/orangerie-materials/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8258
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=8258 to https://www.dfnsrl.com/kitchens-materials/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11661
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=11661 to https://www.dfnsrl.com/portfolio/forte-village/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/forte-village/
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/forte-village/ to https://www.dfnsrl.com/portfolio/forte-village/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11925
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=11925 to https://www.dfnsrl.com/portfolio/sunlight/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/sunlight/
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/sunlight/ to https://www.dfnsrl.com/portfolio/sunlight/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/portfolio/sublime/
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/portfolio/sublime/ to https://www.dfnsrl.com/portfolio/sublime-collection/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11932
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=11932 to https://www.dfnsrl.com/portfolio/twilight/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11917
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=11917 to https://www.dfnsrl.com/portfolio/sunrise/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/sunrise/
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/sunrise/ to https://www.dfnsrl.com/portfolio/sunrise/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11978
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/?p=11978 to https://www.dfnsrl.com/sublime-collection-materials/
+13:24:29	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6155
+13:24:29	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6155 to https://www.dfnsrl.com/it/portfolio/mirabile-collection/
+13:24:48	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/materiali-outdoor-collection/
+13:24:48	Warning: 	File has moved from https://www.dfnsrl.com/it/materiali-outdoor-collection/ to https://www.dfnsrl.com/it//it/materiali-mirabile-collection/
+13:24:48	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8026
+13:24:48	Warning: 	File has moved from https://www.dfnsrl.com/?p=8026 to https://www.dfnsrl.com/portfolio/antares/
+13:24:48	Warning: 	Moved Permanently for https://www.dfnsrl.com/antares/
+13:24:48	Warning: 	File has moved from https://www.dfnsrl.com/antares/ to https://www.dfnsrl.com/portfolio/antares/
+13:24:48	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8286
+13:24:48	Warning: 	File has moved from https://www.dfnsrl.com/?p=8286 to https://www.dfnsrl.com/portfolio/living-area/
+13:24:48	Warning: 	Moved Permanently for https://www.dfnsrl.com/living-area/
+13:24:48	Warning: 	File has moved from https://www.dfnsrl.com/living-area/ to https://www.dfnsrl.com/portfolio/living-area/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8291
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=8291 to https://www.dfnsrl.com/portfolio/dining-area/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/dining-area/
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/dining-area/ to https://www.dfnsrl.com/portfolio/dining-area/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8300
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=8300 to https://www.dfnsrl.com/portfolio/relax-area/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/relax-area/
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/relax-area/ to https://www.dfnsrl.com/portfolio/relax-area/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8308
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=8308 to https://www.dfnsrl.com/portfolio/accessories/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/accessories/
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/accessories/ to https://www.dfnsrl.com/portfolio/accessories/
+13:24:51	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-design-elegante-.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:24:51	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-contract-e-residenziale-.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:24:51	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-agenti-atmosferici.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8311
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=8311 to https://www.dfnsrl.com/mirabile-collection-materials/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12133
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=12133 to https://www.dfnsrl.com/portfolio/casa-dei-limoni-ne/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/casa-dei-limoni-ne/
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/casa-dei-limoni-ne/ to https://www.dfnsrl.com/portfolio/casa-dei-limoni-ne/
+13:24:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8329
+13:24:51	Warning: 	File has moved from https://www.dfnsrl.com/?p=8329 to https://www.dfnsrl.com/portfolio/bioclimatic-pergolas/
+13:24:53	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12118
+13:24:53	Warning: 	File has moved from https://www.dfnsrl.com/?p=12118 to https://www.dfnsrl.com/portfolio/bioclimatic-pergolas-new/
+13:24:53	Warning: 	Moved Permanently for https://www.dfnsrl.com/bioclimatic-pergolas-new/
+13:24:53	Warning: 	File has moved from https://www.dfnsrl.com/bioclimatic-pergolas-new/ to https://www.dfnsrl.com/portfolio/bioclimatic-pergolas-new/
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8383
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/?p=8383 to https://www.dfnsrl.com/portfolio/winter-gardens/
+13:24:54	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-rivoluzione-arredo-outdoor.png (from https://www.dfnsrl.com/projects/)
+13:24:54	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Total-look.png (from https://www.dfnsrl.com/projects/)
+13:24:54	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Il-lusso-di-finiture-uniche.png (from https://www.dfnsrl.com/projects/)
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8394
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/?p=8394 to https://www.dfnsrl.com/portfolio/tudufushi-island-maldives/
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/tudufushi-island-maldives/
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/tudufushi-island-maldives/ to https://www.dfnsrl.com/portfolio/tudufushi-island-maldives/
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8398
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/?p=8398 to https://www.dfnsrl.com/portfolio/costa-smeralda-sardinia/
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/costa-smeralda-sardinia/
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/costa-smeralda-sardinia/ to https://www.dfnsrl.com/portfolio/costa-smeralda-sardinia/
+13:24:54	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-30-anni.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:24:54	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-intreccio.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:24:54	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-scenografici-.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12265
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/?p=12265 to https://www.dfnsrl.com/portfolio/canopo-floating/
+13:24:54	Warning: 	Link https://www.dfnsrl.com/la-casa-dei-limoni-reserved-area/ not scanned (follow robots meta tag)
+13:24:54	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=5970
+13:24:54	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=5970 to https://www.dfnsrl.com/it/portfolio/siderale/
+13:25:15	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=5944
+13:25:15	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=5944 to https://www.dfnsrl.com/it/portfolio/cucine-per-esterno/
+13:25:36	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6141
+13:25:36	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6141 to https://www.dfnsrl.com/it/portfolio/orangerie/
+13:25:47	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=9552
+13:25:47	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=9552 to https://www.dfnsrl.com/it/portfolio/mara-dal-cin-2/
+13:25:47	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/mara-dal-cin-2/
+13:25:47	Warning: 	File has moved from https://www.dfnsrl.com/it/mara-dal-cin-2/ to https://www.dfnsrl.com/it/portfolio/mara-dal-cin-2/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10119
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10119 to https://www.dfnsrl.com/it/portfolio/collezione-aralia/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/collezione-aralia/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/collezione-aralia/ to https://www.dfnsrl.com/it/portfolio/collezione-aralia/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11251
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11251 to https://www.dfnsrl.com/it/portfolio/kenzia/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/kenzia/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/kenzia/ to https://www.dfnsrl.com/it/portfolio/kenzia/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10114
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10114 to https://www.dfnsrl.com/it/portfolio/collezione-yucca/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/collezione-yucca/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/collezione-yucca/ to https://www.dfnsrl.com/it/portfolio/collezione-yucca/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12661
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12661 to https://www.dfnsrl.com/it/portfolio/laurus/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/laurus/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/laurus/ to https://www.dfnsrl.com/it/portfolio/laurus/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7570
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7570 to https://www.dfnsrl.com/it/materiali-siderale/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6143
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6143 to https://www.dfnsrl.com/it/portfolio/luci/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7832
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7832 to https://www.dfnsrl.com/it/materiali-orangerie/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/kitchens-materials/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/kitchens-materials/ to https://www.dfnsrl.com/it/materiali-e-finiture-cucine/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6892
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6892 to https://www.dfnsrl.com/it/materiali-e-finiture-cucine/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11601
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11601 to https://www.dfnsrl.com/it/portfolio/forte-village/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/forte-village/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/forte-village/ to https://www.dfnsrl.com/it/portfolio/forte-village/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11969
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11969 to https://www.dfnsrl.com/it/portfolio/twilight/
+13:25:51	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/twilight/
+13:25:51	Warning: 	File has moved from https://www.dfnsrl.com/it/twilight/ to https://www.dfnsrl.com/it/portfolio/twilight/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/personalizzazione-arredamento/
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/personalizzazione-arredamento/ to https://www.dfnsrl.com/it/portfolio/samuele-mazza-outdoor-collection/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/sublime/
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/sublime/ to https://www.dfnsrl.com/it/portfolio/sublime/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11965
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11965 to https://www.dfnsrl.com/it/portfolio/sunlight/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/sunlight/
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/sunlight/ to https://www.dfnsrl.com/it/portfolio/sunlight/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11972
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11972 to https://www.dfnsrl.com/it/portfolio/sunrise/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/sunrise/
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/sunrise/ to https://www.dfnsrl.com/it/portfolio/sunrise/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11995
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11995 to https://www.dfnsrl.com/it/sublime-collection-materiali/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=8072
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=8072 to https://www.dfnsrl.com/it/materiali-mirabile-collection/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12181
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12181 to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni-ne/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/casa-dei-limoni-ne/
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/casa-dei-limoni-ne/ to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni-ne/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7906
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7906 to https://www.dfnsrl.com/it/portfolio/glamour/
+13:25:52	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/glamour/
+13:25:52	Warning: 	File has moved from https://www.dfnsrl.com/it/glamour/ to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12174
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12174 to https://www.dfnsrl.com/it/portfolio/pergole-bioclimatiche-new/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/pergole-bioclimatiche-new/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/pergole-bioclimatiche-new/ to https://www.dfnsrl.com/it/portfolio/pergole-bioclimatiche-new/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/tudufushi-island-maldives/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/tudufushi-island-maldives/ to https://www.dfnsrl.com/it/portfolio/tudufushi-island-maldive/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6593
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6593 to https://www.dfnsrl.com/it/portfolio/tudufushi-island-maldive/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/tudufushi-island-maldive/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/tudufushi-island-maldive/ to https://www.dfnsrl.com/it/portfolio/tudufushi-island-maldive/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/costa-smeralda-sardinia/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/costa-smeralda-sardinia/ to https://www.dfnsrl.com/it/portfolio/costa-smeralda-sardegna/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6579
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6579 to https://www.dfnsrl.com/it/portfolio/costa-smeralda-sardegna/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/costa-smeralda-sardegna/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/costa-smeralda-sardegna/ to https://www.dfnsrl.com/it/portfolio/costa-smeralda-sardegna/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6941
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6941 to https://www.dfnsrl.com/it/portfolio/giardino-d-inverno/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6133
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6133 to https://www.dfnsrl.com/it/portfolio/canopo/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/canopo/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/canopo/ to https://www.dfnsrl.com/it/portfolio/canopo/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6212
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6212 to https://www.dfnsrl.com/it/portfolio/canopo-t2/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/canopo-t2/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/canopo-t2/ to https://www.dfnsrl.com/it/portfolio/canopo-t2/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6220
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6220 to https://www.dfnsrl.com/it/portfolio/wezen/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/wezen/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/wezen/ to https://www.dfnsrl.com/it/portfolio/wezen/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6878
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6878 to https://www.dfnsrl.com/it/portfolio/classico/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/classico/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/classico/ to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7214
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7214 to https://www.dfnsrl.com/it/portfolio/accessori/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/accessori/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/accessori/ to https://www.dfnsrl.com/it/portfolio/accessori/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=13646
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=13646 to https://www.dfnsrl.com/it/conservatories-progettazione-e-personalizzazione/
+13:25:56	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/10/La-casa-dei-limoni-300x105.png (from https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/)
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8320
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/?p=8320 to https://www.dfnsrl.com/portfolio/classico/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/classico/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/classico/ to https://www.dfnsrl.com/portfolio/casa-dei-limoni/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=13537
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/?p=13537 to https://www.dfnsrl.com/conservatories-design-and-customization/
+13:25:56	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/Progettista.png (from https://www.dfnsrl.com/who-we-are/)
+13:25:56	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/Download.png (from https://www.dfnsrl.com/who-we-are/)
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10811
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/?p=10811 to https://www.dfnsrl.com/portfolio/curved-kitchen-multi-element/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/curved-kitchen-multi-element/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/curved-kitchen-multi-element/ to https://www.dfnsrl.com/portfolio/curved-kitchen-multi-element/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10757
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/?p=10757 to https://www.dfnsrl.com/portfolio/curved-outdoor-kitchen-corner-composition/
+13:25:56	Warning: 	Moved Permanently for https://www.dfnsrl.com/curved-outdoor-kitchen-corner-composition/
+13:25:56	Warning: 	File has moved from https://www.dfnsrl.com/curved-outdoor-kitchen-corner-composition/ to https://www.dfnsrl.com/portfolio/curved-outdoor-kitchen-corner-composition/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/cucine-per-esterno/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/cucine-per-esterno/ to https://www.dfnsrl.com/portfolio/outdoor-kitchens/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/kitchen-materials/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/kitchen-materials/ to http://www.dfnsrl.com/kitchens-materials/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8037
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8037 to https://www.dfnsrl.com/portfolio/linear-kitchen-with-automatic-cover/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/linear-kitchen-with-automatic-cover/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/linear-kitchen-with-automatic-cover/ to https://www.dfnsrl.com/portfolio/linear-kitchen-with-automatic-cover/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8041
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8041 to https://www.dfnsrl.com/portfolio/island-kitchen-with-sliding-table/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/island-kitchen-with-sliding-table/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/island-kitchen-with-sliding-table/ to https://www.dfnsrl.com/portfolio/island-kitchen-with-sliding-table/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8044
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8044 to https://www.dfnsrl.com/portfolio/linear-kitchen-with-manual-cover/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/linear-kitchen-with-manual-cover/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/linear-kitchen-with-manual-cover/ to https://www.dfnsrl.com/portfolio/linear-kitchen-with-manual-cover/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8049
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8049 to https://www.dfnsrl.com/portfolio/sectional-u-shaped-kitchen/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/sectional-u-shaped-kitchen/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/sectional-u-shaped-kitchen/ to https://www.dfnsrl.com/portfolio/sectional-u-shaped-kitchen/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/samuele-mazza-outdoor-collections/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/samuele-mazza-outdoor-collections/ to https://www.dfnsrl.com/it/samuele-mazza-outdoor-collection/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8247
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8247 to https://www.dfnsrl.com/portfolio/linear-kitchen-with-sliding-cover/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/linear-kitchen-with-sliding-cover/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/linear-kitchen-with-sliding-cover/ to https://www.dfnsrl.com/portfolio/linear-kitchen-with-sliding-cover/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8252
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8252 to https://www.dfnsrl.com/portfolio/linear-kitchen-barbecue-version/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/linear-kitchen-barbecue-version/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/linear-kitchen-barbecue-version/ to https://www.dfnsrl.com/portfolio/linear-kitchen-barbecue-version/
+13:26:01	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/07/DFN-luruty-outdoor-furniture-lussuose-cucine.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:26:01	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-materiali-iconici.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:26:01	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/07/DFN-luruty-outdoor-furniture-total-look.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7985
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7985 to https://www.dfnsrl.com/portfolio/canopo/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/canopo/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/canopo/ to https://www.dfnsrl.com/portfolio/canopo/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/sole/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/sole/ to https://www.dfnsrl.com/portfolio/sole/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7988
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7988 to https://www.dfnsrl.com/portfolio/canopo-t2/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/canopo-t2/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/canopo-t2/ to https://www.dfnsrl.com/portfolio/canopo-t2/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7991
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7991 to https://www.dfnsrl.com/portfolio/wezen/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/wezen/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/wezen/ to https://www.dfnsrl.com/portfolio/wezen/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12223
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=12223 to https://www.dfnsrl.com/portfolio/aldebaran-resin/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/aldebaran-resin/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/aldebaran-resin/ to https://www.dfnsrl.com/portfolio/aldebaran-resin/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=12262
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=12262 to https://www.dfnsrl.com/portfolio/altair-resin/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/altair-resin/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/altair-resin/ to https://www.dfnsrl.com/portfolio/altair-resin/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7979
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7979 to https://www.dfnsrl.com/portfolio/sole/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/sirio/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/sirio/ to https://www.dfnsrl.com/portfolio/sirio/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7982
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7982 to https://www.dfnsrl.com/portfolio/sirio/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7994
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7994 to https://www.dfnsrl.com/portfolio/mirach/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/mirach/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/mirach/ to https://www.dfnsrl.com/portfolio/mirach/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=7997
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=7997 to https://www.dfnsrl.com/portfolio/zibal/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/zibal/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/zibal/ to https://www.dfnsrl.com/portfolio/zibal/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9131
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=9131 to https://www.dfnsrl.com/portfolio/alhena-and-lunette/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/alhena-and-lunette/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/alhena-and-lunette/ to https://www.dfnsrl.com/portfolio/alhena-and-lunette/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8000
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8000 to https://www.dfnsrl.com/portfolio/naos/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/naos/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/naos/ to https://www.dfnsrl.com/portfolio/naos/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8011
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8011 to https://www.dfnsrl.com/portfolio/aldebaran/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/aldebaran/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/aldebaran/ to https://www.dfnsrl.com/portfolio/aldebaran/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8014
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8014 to https://www.dfnsrl.com/portfolio/altair/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/altair/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/altair/ to https://www.dfnsrl.com/portfolio/altair/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8017
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8017 to https://www.dfnsrl.com/portfolio/shaula/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/shaula/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/shaula/ to https://www.dfnsrl.com/portfolio/shaula/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8020
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8020 to https://www.dfnsrl.com/portfolio/vega/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/vega/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/vega/ to https://www.dfnsrl.com/portfolio/vega/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8023
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=8023 to https://www.dfnsrl.com/portfolio/rigel/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/rigel/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/rigel/ to https://www.dfnsrl.com/portfolio/rigel/
+13:26:01	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-materiali-naturali.png (from https://www.dfnsrl.com/portfolio/orangerie/)
+13:26:01	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-lussuosi-arredamenti.png (from https://www.dfnsrl.com/portfolio/orangerie/)
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9890
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/?p=9890 to https://www.dfnsrl.com/portfolio/demetra-new/
+13:26:01	Warning: 	Moved Permanently for https://www.dfnsrl.com/demetra-new/
+13:26:01	Warning: 	File has moved from https://www.dfnsrl.com/demetra-new/ to https://www.dfnsrl.com/portfolio/demetra-new/
+13:26:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11055
+13:26:02	Warning: 	File has moved from https://www.dfnsrl.com/?p=11055 to https://www.dfnsrl.com/kenzia/
+13:26:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=11344
+13:26:02	Warning: 	File has moved from https://www.dfnsrl.com/?p=11344 to https://www.dfnsrl.com/laurus/
+13:26:02	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Rivoluzione-arredo.png (from https://www.dfnsrl.com/portfolio/demetra/)
+13:26:02	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Finiture-inusuali.png (from https://www.dfnsrl.com/portfolio/demetra/)
+13:26:02	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-elementi-luminosi-decorativi.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:26:02	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-excellence.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:26:02	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-proposte-coordinate.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:26:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6261
+13:26:02	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6261 to https://www.dfnsrl.com/it/portfolio/antares/
+13:26:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/antares/
+13:26:02	Warning: 	File has moved from https://www.dfnsrl.com/it/antares/ to https://www.dfnsrl.com/it/portfolio/antares/
+13:26:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6151
+13:26:02	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6151 to https://www.dfnsrl.com/it/portfolio/natural-rattan/
+13:26:02	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/natural-rattan/
+13:26:02	Warning: 	File has moved from https://www.dfnsrl.com/it/natural-rattan/ to https://www.dfnsrl.com/it/portfolio/natural-rattan/
+13:26:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-forme-uniche-.png (from https://www.dfnsrl.com/it/portfolio/natural-rattan/)
+13:26:05	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7206
+13:26:05	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7206 to https://www.dfnsrl.com/it/portfolio/living-area/
+13:26:05	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/living-area/
+13:26:05	Warning: 	File has moved from https://www.dfnsrl.com/it/living-area/ to https://www.dfnsrl.com/it/portfolio/living-area/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7208
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7208 to https://www.dfnsrl.com/it/portfolio/dining-area/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/dining-area/
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/it/dining-area/ to https://www.dfnsrl.com/it/portfolio/dining-area/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7212
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7212 to https://www.dfnsrl.com/it/portfolio/area-relax/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/area-relax/
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/it/area-relax/ to https://www.dfnsrl.com/it/portfolio/area-relax/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/it//it/materiali-mirabile-collection/
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/it//it/materiali-mirabile-collection/ to https://www.dfnsrl.com/it/materiali-mirabile-collection/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8590
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/?p=8590 to https://www.dfnsrl.com/portfolio/canopy-sun-lounger/
+13:26:07	Warning: 	Moved Permanently for https://www.dfnsrl.com/canopy-sun-lounger/
+13:26:07	Warning: 	File has moved from https://www.dfnsrl.com/canopy-sun-lounger/ to https://www.dfnsrl.com/portfolio/canopy-sun-lounger/
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-design-elegante-.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-contract-e-residenziale-.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-agenti-atmosferici.png (from https://www.dfnsrl.com/portfolio/mirabile-collection/)
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8326
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/?p=8326 to https://www.dfnsrl.com/portfolio/glamour/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/glamour/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/glamour/ to https://www.dfnsrl.com/portfolio/casa-dei-limoni/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=6198
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/?p=6198 to https://www.dfnsrl.com/portfolio/siderale/download/
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-rivoluzione-arredo-outdoor.png (from https://www.dfnsrl.com/projects/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Total-look.png (from https://www.dfnsrl.com/projects/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/08/DFN-Il-lusso-di-finiture-uniche.png (from https://www.dfnsrl.com/projects/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-30-anni.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-intreccio.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:26:08	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-scenografici-.png (from https://www.dfnsrl.com/portfolio/dolcefarniente/)
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12243
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12243 to https://www.dfnsrl.com/it/portfolio/aldebaran-resin/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/aldebaran-resin/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/aldebaran-resin/ to https://www.dfnsrl.com/it/portfolio/aldebaran-resin/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=12247
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=12247 to https://www.dfnsrl.com/it/portfolio/altair-resin/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/altair-resin/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/altair-resin/ to https://www.dfnsrl.com/it/portfolio/altair-resin/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6303
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6303 to https://www.dfnsrl.com/it/portfolio/sole/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/sole/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/sole/ to https://www.dfnsrl.com/it/portfolio/sole/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6204
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6204 to https://www.dfnsrl.com/it/portfolio/sirio/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/sirio/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/sirio/ to https://www.dfnsrl.com/it/portfolio/sirio/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6534
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6534 to https://www.dfnsrl.com/it/portfolio/mirach/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/mirach/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/mirach/ to https://www.dfnsrl.com/it/portfolio/mirach/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6238
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6238 to https://www.dfnsrl.com/it/portfolio/zibal/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/zibal/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/zibal/ to https://www.dfnsrl.com/it/portfolio/zibal/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=9984
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=9984 to https://www.dfnsrl.com/it/portfolio/alhena-and-lunette/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/alhena-and-lunette/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/alhena-and-lunette/ to https://www.dfnsrl.com/it/portfolio/alhena-and-lunette/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6228
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6228 to https://www.dfnsrl.com/it/portfolio/naos/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/naos/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/naos/ to https://www.dfnsrl.com/it/portfolio/naos/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/curved-kitchen-multi-element/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/curved-kitchen-multi-element/ to https://www.dfnsrl.com/it/portfolio/cucina-curva-multi-element-composition-stand-alone/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10624
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10624 to https://www.dfnsrl.com/it/portfolio/cucina-curva-multi-element-composition-stand-alone/
+13:26:08	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-curva-multi-element-composition-stand-alone/
+13:26:08	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-curva-multi-element-composition-stand-alone/ to https://www.dfnsrl.com/it/portfolio/cucina-curva-multi-element-composition-stand-alone/
+13:26:09	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/home/samuele-mazza/
+13:26:09	Warning: 	File has moved from https://www.dfnsrl.com/it/home/samuele-mazza/ to https://www.dfnsrl.com/it/samuele-mazza-5/
+13:26:09	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10606
+13:26:09	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10606 to https://www.dfnsrl.com/it/portfolio/cucina-curva-angolo/
+13:26:09	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-curva-angolo/
+13:26:09	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-curva-angolo/ to https://www.dfnsrl.com/it/portfolio/cucina-curva-angolo/
+13:26:11	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=39
+13:26:11	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=39 to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-automatica/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-lineare-con-copertura-automatica/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-lineare-con-copertura-automatica/ to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-automatica/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/home/samuele-mazza/sm-materiali/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/home/samuele-mazza/sm-materiali/ to https://www.dfnsrl.com/it/materiali-samuele-mazza/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/island-kitchen-with-sliding-table/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/island-kitchen-with-sliding-table/ to https://www.dfnsrl.com/it/portfolio/cucina-a-isola-con-tavolo-scorrevole/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6077
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6077 to https://www.dfnsrl.com/it/portfolio/cucina-a-isola-con-tavolo-scorrevole/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-a-isola-con-tavolo-scorrevole/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-a-isola-con-tavolo-scorrevole/ to https://www.dfnsrl.com/it/portfolio/cucina-a-isola-con-tavolo-scorrevole/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/linear-kitchen-with-manual-cover/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/linear-kitchen-with-manual-cover/ to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-manuale/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6105
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6105 to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-manuale/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-lineare-con-copertura-manuale/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-lineare-con-copertura-manuale/ to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-manuale/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6087
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6087 to https://www.dfnsrl.com/it/portfolio/cucina-modulare-a-ferro-di-cavallo/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-modulare-a-ferro-di-cavallo/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-modulare-a-ferro-di-cavallo/ to https://www.dfnsrl.com/it/portfolio/cucina-modulare-a-ferro-di-cavallo/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6096
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6096 to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-scorrevole/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-lineare-con-copertura-scorrevole/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-lineare-con-copertura-scorrevole/ to https://www.dfnsrl.com/it/portfolio/cucina-lineare-con-copertura-scorrevole/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6115
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6115 to https://www.dfnsrl.com/it/portfolio/cucina-lineare-versione-barbecue/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/cucina-lineare-versione-barbecue/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/cucina-lineare-versione-barbecue/ to https://www.dfnsrl.com/it/portfolio/cucina-lineare-versione-barbecue/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6554
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6554 to https://www.dfnsrl.com/it/portfolio/aldebaran/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/aldebaran/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/aldebaran/ to https://www.dfnsrl.com/it/portfolio/aldebaran/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6551
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6551 to https://www.dfnsrl.com/it/portfolio/altair/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/altair/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/altair/ to https://www.dfnsrl.com/it/portfolio/altair/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/vega/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/vega/ to https://www.dfnsrl.com/it/portfolio/vega/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6542
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6542 to https://www.dfnsrl.com/it/portfolio/shaula/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/shaula/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/shaula/ to https://www.dfnsrl.com/it/portfolio/shaula/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/rigel/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/rigel/ to https://www.dfnsrl.com/it/portfolio/rigel/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6277
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6277 to https://www.dfnsrl.com/it/portfolio/vega/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=6269
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=6269 to https://www.dfnsrl.com/it/portfolio/rigel/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10183
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10183 to https://www.dfnsrl.com/it/portfolio/mara-dal-cin/
+13:26:12	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/mara-dal-cin/
+13:26:12	Warning: 	File has moved from https://www.dfnsrl.com/it/mara-dal-cin/ to https://www.dfnsrl.com/it/portfolio/mara-dal-cin/
+13:26:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/accessori-casa/
+13:26:18	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/accessori-casa/ to https://www.dfnsrl.com/it/
+13:26:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=11975
+13:26:18	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=11975 to https://www.dfnsrl.com/it/portfolio/sublime/
+13:26:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7896
+13:26:18	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7896 to https://www.dfnsrl.com/it/portfolio/moderno/
+13:26:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/moderno/
+13:26:18	Warning: 	File has moved from https://www.dfnsrl.com/it/moderno/ to https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/
+13:26:18	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/10/La-casa-dei-limoni-300x105.png (from https://www.dfnsrl.com/it/portfolio/casa-dei-limoni/)
+13:26:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10332
+13:26:18	Warning: 	File has moved from https://www.dfnsrl.com/?p=10332 to https://www.dfnsrl.com/portfolio/candle-fragrances/
+13:26:18	Warning: 	Moved Permanently for https://www.dfnsrl.com/candle-fragrances/
+13:26:18	Warning: 	File has moved from https://www.dfnsrl.com/candle-fragrances/ to https://www.dfnsrl.com/portfolio/candle-fragrances/
+13:26:23	Warning: 	Moved Permanently for https://www.dfnsrl.com/customized-accessories/
+13:26:23	Warning: 	File has moved from https://www.dfnsrl.com/customized-accessories/ to https://www.dfnsrl.com/personalization/
+13:26:30	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/home-accessories/ (from https://www.dfnsrl.com/portfolio/candle-fragrances/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/07/DFN-luruty-outdoor-furniture-lussuose-cucine.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-materiali-iconici.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/07/DFN-luruty-outdoor-furniture-total-look.png (from https://www.dfnsrl.com/portfolio/outdoor-kitchens/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-materiali-naturali.png (from https://www.dfnsrl.com/portfolio/orangerie/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-furniture-lussuosi-arredamenti.png (from https://www.dfnsrl.com/portfolio/orangerie/)
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=9970
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/?p=9970 to https://www.dfnsrl.com/portfolio/9970/
+13:26:30	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/9970/ (from https://www.dfnsrl.com/portfolio/9970/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-elementi-luminosi-decorativi.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-excellence.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:26:30	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luxury-outdoor-lights-proposte-coordinate.png (from https://www.dfnsrl.com/portfolio/lights/)
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/natural-rattan-materials/
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/natural-rattan-materials/ to https://www.dfnsrl.com/portfolio/mirabile-collection/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=8067
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=8067 to https://www.dfnsrl.com/it/materiali-natural-rattan/
+13:26:30	Warning: 	Retry after error 500 () at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-forme-uniche-.png (from https://www.dfnsrl.com/it/portfolio/natural-rattan/)
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=7516
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=7516 to https://www.dfnsrl.com/it/portfolio/letto-a-baldacchino/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/letto-a-baldacchino/
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/letto-a-baldacchino/ to https://www.dfnsrl.com/it/portfolio/letto-a-baldacchino/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=8323
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/?p=8323 to https://www.dfnsrl.com/portfolio/moderno/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/moderno/
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/moderno/ to https://www.dfnsrl.com/portfolio/casa-dei-limoni/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/samuele-mazza-5/
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/samuele-mazza-5/ to http://www.dfnsrl.com/samuele-mazza-outdoor-collection/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/candle-fragrances/
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/candle-fragrances/ to https://www.dfnsrl.com/it/portfolio/fragranze-candele/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10257
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10257 to https://www.dfnsrl.com/it/portfolio/fragranze-candele/
+13:26:30	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/fragranze-candele/
+13:26:30	Warning: 	File has moved from https://www.dfnsrl.com/it/fragranze-candele/ to https://www.dfnsrl.com/it/portfolio/fragranze-candele/
+13:26:32	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/accessori-personalizzati/
+13:26:32	Warning: 	File has moved from https://www.dfnsrl.com/it/accessori-personalizzati/ to https://www.dfnsrl.com/it/personalizzazioni/
+13:26:34	Error: 	"Not Found" (404) at link https://www.dfnsrl.com/it/accessori-casa/ (from https://www.dfnsrl.com/it/portfolio/fragranze-candele/)
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10314
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/?p=10314 to https://www.dfnsrl.com/portfolio/mara-dal-cin/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/mara-dal-cin/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/mara-dal-cin/ to https://www.dfnsrl.com/portfolio/mara-dal-cin/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10191
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10191 to https://www.dfnsrl.com/it/portfolio/linea-tessile/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/linea-tessile/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/linea-tessile/ to https://www.dfnsrl.com/it/portfolio/linea-tessile/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10329
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/?p=10329 to https://www.dfnsrl.com/portfolio/blown-glass/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/blown-glass/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/blown-glass/ to https://www.dfnsrl.com/portfolio/blown-glass/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10325
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/?p=10325 to https://www.dfnsrl.com/portfolio/tableware/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/tableware/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/tableware/ to https://www.dfnsrl.com/portfolio/tableware/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/?p=10321
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/?p=10321 to https://www.dfnsrl.com/portfolio/textile/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/textile/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/textile/ to https://www.dfnsrl.com/portfolio/textile/
+13:26:34	Error: 	"" (500) after 2 retries at link https://c002621clx00.neen.cloud/wp-content/uploads/2017/09/DFN-luruty-outdoor-furniture-forme-uniche-.png (from https://www.dfnsrl.com/it/portfolio/natural-rattan/)
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10248
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10248 to https://www.dfnsrl.com/it/portfolio/vetro-soffiato/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/vetro-soffiato/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/vetro-soffiato/ to https://www.dfnsrl.com/it/portfolio/vetro-soffiato/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/portfolio/tableware/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/portfolio/tableware/ to https://www.dfnsrl.com/it/portfolio/linea-tavola/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/?p=10227
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/?p=10227 to https://www.dfnsrl.com/it/portfolio/linea-tavola/
+13:26:34	Warning: 	Moved Permanently for https://www.dfnsrl.com/it/linea-tavola/
+13:26:34	Warning: 	File has moved from https://www.dfnsrl.com/it/linea-tavola/ to https://www.dfnsrl.com/it/portfolio/linea-tavola/
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 7 seconds : 2575 links scanned, 2098 files written (385118154 bytes overall) [368478380 bytes received at 468206 bytes/sec], 23295998 bytes transferred using HTTP compression in 487 files, ratio 19%, 18.4 requests per connection
+(52 errors, 805 warnings, 0 messages)

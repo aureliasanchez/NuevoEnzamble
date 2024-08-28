@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	pb5RIVCOQsJ9inAiZBf5reHoogURUOZ0PMNoQcu1uao-1724782421-1.0.1.1-mtvt5yoYajFYBHp_w62etO4Egwwaz8MQxLjOGz1VCD1z9eh.1QHwJem3z3KYMwzU
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	Khgu3.aLQYHaioQotb78h5mIqTEwHW3IbWUkRrtVOn0-1724782421088-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.blog.dfnsrl.com	TRUE	/	FALSE	1999999999	__cf_bm	bK50enAmS5QixNZlAacZ5AMdeMRXAWuWmY4NbvHSq7E-1724782426-1.0.1.1-QcDdfG0ddUaJfP5aL_cvBZ1PhllZJFpgol5cuCr3aSm9a5QYIBMX3XdngH.8.Y9QDpv5r6lApve2XzYBFQzseQ
+.blog.dfnsrl.com	TRUE	/	FALSE	1999999999	__cfruid	e17bb6059e894afa3b513bd8fd24b74e3427d752-1724782426
+blog.dfnsrl.com	TRUE	/	FALSE	1999999999	SameSite	None
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	2.OYBZp341GL6nKPrAMK_3_ZI12Tt_etVhwNvZJ77GM-1724782448-1.0.1.1-zujfu6mfYTph5Sdt57QVefilDibnWjSJGVQfdms3rEkki6.N93o2MwaksxAWAlFvSMgKsrlunDfsCPzaf.j7qQ
+
